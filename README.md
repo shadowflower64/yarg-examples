@@ -6,7 +6,7 @@ The purpose of these files is for anyone to be able to easily test out features 
 
 ## Contributing
 
-If you want to contribute your own chart to this repo, make a pull-request and I will review your changes. I may adapt your chart to the correct format if necessary. If you wish to request any example chart ideas, you can create an issue, and some day it may be added to the repo.
+If you want to contribute your own chart to this repo, make a [pull request](https://github.com/shadowflower64/yarg-examples/pulls) and I will review your changes. I may adapt your chart to the correct format if necessary. If you wish to request any example chart ideas, you can create an issue, and some day it may be added to the repo.
 
 ## Discord
 
