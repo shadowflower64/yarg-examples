@@ -12,13 +12,17 @@ This REAPER project template contains pre-defined tracks and MIDI note names to 
     * `colormap_elitedrums.png` - for charting Elite Drums.
 
 
-## Installation and usage
+## Installation
 To properly install the YARG template into REAPER, you must copy all of the folders and files from here into REAPER's application directory:
 * Windows: `%APPDATA%\REAPER`
 * MacOS: `~/Library/Application Support/REAPER`
 * Linux: `~/.config/REAPER`
 
-So, on Windows for example, the color map for drums should end up in: `C:\Users\<username>\AppData\Roaming\REAPER\Data\color_maps\colormap_drums.png`
+So, on Windows for example, the color map for drums should end up in:
+
+`C:\Users\<username>\AppData\Roaming\REAPER\Data\color_maps\colormap_drums.png`
+
+## Usage
 
 Once you copy everything correctly, you should be able to open REAPER, and select `File > Project templates > YARG` to create a new project. After that, start placing notes and then you can save the project in a directory of your choice.
 
