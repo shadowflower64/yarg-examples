@@ -1,4 +1,4 @@
-# YARG Template
+# YARG Template for REAPER
 
 ## About
 This REAPER project template contains pre-defined tracks and MIDI note names to help you create charts for YARG in the notes.mid format. Apart from the template, this directory also contains a couple of extra helpful files, such as colormaps and separate MIDI note name files.
@@ -12,7 +12,7 @@ This REAPER project template contains pre-defined tracks and MIDI note names to 
     * `colormap_elitedrums.png` - for charting Elite Drums.
 
 
-## Installing and usage
+## Installation and usage
 To properly install the YARG template into REAPER, you must copy all of the folders and files from here into REAPER's application directory:
 * Windows: `%APPDATA%\REAPER`
 * MacOS: `~/Library/Application Support/REAPER`
