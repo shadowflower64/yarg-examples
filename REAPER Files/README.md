@@ -6,11 +6,12 @@ This REAPER project template contains pre-defined tracks and MIDI note names to 
 ### Contents
 * `ProjectTemplates/YARG.rpp` - This is the main project template file.
 * `MIDINoteNames/` - This directory contains text files with note names used in the template. Names of the files are self-explanatory.
-* `Data/color_maps/` - This directory contains three color maps used in YARG:
-    * `colormap_grybo.png` - for charting 5-Fret Guitar, 5-Fret Bass and 5-Lane Keys.
-    * `colormap_drums.png` - for charting Pro Drums.
-    * `colormap_elitedrums.png` - for charting Elite Drums.
-
+* `Data/`
+   * `color_maps/` - This directory contains three color maps used in YARG:
+      * `colormap_grybo.png` - for charting 5-Fret Guitar, 5-Fret Bass and 5-Lane Keys.
+      * `colormap_drums.png` - for charting Pro Drums.
+      * `colormap_elitedrums.png` - for charting Elite Drums.
+   * `text_strings/` - This directory contains text files with lists of text events for specific tracks. Names of the files are self-explanatory.
 
 ## Installation
 To properly install the YARG template into REAPER, you must copy all of the folders and files from here into REAPER's application directory:
