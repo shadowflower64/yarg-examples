@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.42/linux-x86_64" 1753780785
+<REAPER_PROJECT 0.1 "7.42/linux-x86_64" 1753792911
   RIPPLE 0 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 129
@@ -35,7 +35,6 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
   RENDER_DITHER 0
-  RENDER_TRIM 0 0 0 0
   TIMELOCKMODE 2
   TEMPOENVLOCKMODE 1
   ITEMMIX 0
@@ -935,43 +934,31 @@
     PERF 0
     MIDIOUT -1
     <MIDINOTENAMES
-      -1 59 "E Open" 0 59
       -1 60 "E Green" 0 60
       -1 61 "E Red" 0 61
       -1 62 "E Yellow" 0 62
       -1 63 "E Blue" 0 63
       -1 64 "E Orange" 0 64
-      -1 65 "E Force HOPO On" 0 65
-      -1 66 "E Force HOPO Off" 0 66
-      -1 70 ---- 0 70
-      -1 71 "M Open" 0 71
+      -1 71 ---- 0 71
       -1 72 "M Green" 0 72
       -1 73 "M Red" 0 73
       -1 74 "M Yellow" 0 74
       -1 75 "M Blue" 0 75
       -1 76 "M Orange" 0 76
-      -1 77 "M Force HOPO On" 0 77
-      -1 78 "M Force HOPO Off" 0 78
-      -1 82 ---- 0 82
-      -1 83 "H Open" 0 83
+      -1 83 ---- 0 83
       -1 84 "H Green" 0 84
       -1 85 "H Red" 0 85
       -1 86 "H Yellow" 0 86
       -1 87 "H Blue" 0 87
       -1 88 "H Orange" 0 88
-      -1 89 "H Force HOPO On" 0 89
-      -1 90 "H Force HOPO Off" 0 90
-      -1 94 ---- 0 94
-      -1 95 "X Open" 0 95
+      -1 95 ---- 0 95
       -1 96 "X Green" 0 96
       -1 97 "X Red" 0 97
       -1 98 "X Yellow" 0 98
       -1 99 "X Blue" 0 99
       -1 100 "X Orange" 0 100
-      -1 101 "X Force HOPO On" 0 101
-      -1 102 "X Force HOPO Off" 0 102
+      -1 102 ---- 0 102
       -1 103 "Solo Marker" 0 103
-      -1 104 "Tap Marker" 0 104
       -1 115 ---- 0 115
       -1 116 "Star Power Phrase" 0 116
       -1 119 ---- 0 119
@@ -1039,7 +1026,7 @@
         TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
-        CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
+        CFGEDITVIEW 0 0.167946 0 14 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
         CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 53 38 1781 1009 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
