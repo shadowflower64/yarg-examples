@@ -243,7 +243,7 @@
         GUID {3D175E48-B7E5-4732-8ACF-E683C2F87C66}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 609
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE "5-Fret Bass.txt"
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 543.875242 0.301773 0 8 0 -1 0 0 0 0.5
@@ -408,7 +408,7 @@
         GUID {04FD4636-FB52-4076-9FEB-758415E10C66}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 608
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE "Pro Drums.txt"
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
@@ -574,7 +574,7 @@
         GUID {04FD4636-FB52-4076-9FEB-758415E10C66}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 608
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE "Elite Drums.txt"
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 18 0 -1 0 0 0 0.5
@@ -739,7 +739,7 @@
         GUID {BC8607D4-A2C9-4657-BE2D-284530D67C64}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 610
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE "5-Fret Guitar.txt"
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
@@ -904,7 +904,7 @@
         GUID {BC8607D4-A2C9-4657-BE2D-284530D67C64}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 610
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE "5-Fret Guitar.txt"
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.016111 0 8 0 -1 0 0 0 0.5
@@ -1067,7 +1067,7 @@
         GUID {BC8607D4-A2C9-4657-BE2D-284530D67C64}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 610
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE "5-Fret Guitar.txt"
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
@@ -1189,7 +1189,7 @@
         GUID {B6F1BC07-AAAF-4EEE-BDBC-68EF0D83E1B6}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 611
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE "5-Lane Keys.txt"
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.167946 0 14 0 -1 0 0 0 0.5
@@ -1322,7 +1322,7 @@
         GUID {2F92E240-F4B2-48A2-9636-3D55AE7DA3E1}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 612
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE ""
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
@@ -1455,7 +1455,7 @@
         GUID {3EA6C63D-23C0-4A96-AEC8-21F39893D265}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 613
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE ""
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
@@ -1588,7 +1588,7 @@
         GUID {76EEFC17-3FC7-4E09-B4CE-AFAA0065DEF6}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 614
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE ""
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
@@ -1721,7 +1721,7 @@
         GUID {E3FC4DAE-74FE-4EDF-B784-8716F45BBB31}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 615
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE ""
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
@@ -1845,7 +1845,7 @@
         GUID {99D09667-3A03-4802-A32C-4D716D00686B}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 616
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE ""
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
@@ -1939,7 +1939,7 @@
         GUID {775F9391-C97E-434A-BFF9-380C4BF42DB2}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 617
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE ""
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
@@ -2084,7 +2084,7 @@
         GUID {17A94FD6-0BF4-4623-9A2C-F407A671C7E4}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 618
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE "Vocals.txt"
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
@@ -2229,7 +2229,7 @@
         GUID {45A70D9E-4081-442C-8230-65306529D7A7}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 619
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE ""
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
@@ -2368,7 +2368,7 @@
         GUID {8D79F191-0EEC-4F4D-8418-470087F97C44}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 620
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE ""
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
@@ -2506,7 +2506,7 @@
         GUID {248C892C-CD68-474A-A4BF-6DC9497FB6C7}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 621
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE ""
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
@@ -2573,7 +2573,7 @@
         GUID {86F9D907-C410-40BD-AA1D-3DC19B8D7018}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 622
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE "Events.txt"
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 48 20 0 -1 0 0 0 0.5
@@ -3669,7 +3669,7 @@
         GUID {848ADBDC-2F66-4E77-BA08-4008C0CCAF2B}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 623
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE ""
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 22 0 -1 0 0 0 0.5
@@ -3747,7 +3747,7 @@
         GUID {E4B197FD-5740-4F71-9CEA-9E900078FDAE}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 624
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE "Venue.txt"
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
@@ -3812,7 +3812,7 @@
         GUID {E4B197FD-5740-4F71-9CEA-9E900078FDAE}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 624
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE "Venue - Lights.txt"
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
@@ -3877,7 +3877,7 @@
         GUID {E4B197FD-5740-4F71-9CEA-9E900078FDAE}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 624
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE "Venue - Camera.txt"
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
@@ -3942,7 +3942,7 @@
         GUID {E4B197FD-5740-4F71-9CEA-9E900078FDAE}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 624
-        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        TEXTSTRINGFILE "Venue - Post-Processing.txt"
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
