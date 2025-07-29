@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.42/linux-x86_64" 1753792911
+<REAPER_PROJECT 0.1 "7.42/linux-x86_64" 1753797445
   RIPPLE 0 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 129
@@ -13,8 +13,8 @@
   GRID 1151 8 1 8 1 0 0 0
   TIMEMODE 1 0 -1 24 2 0 -1
   CURSOR 0
-  ZOOM 16.48010572277072 0 0
-  VZOOMEX 5.86363649 0
+  ZOOM 64.68734683133285 0 0
+  VZOOMEX 5.625 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 0 0 0
@@ -35,6 +35,7 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
   RENDER_DITHER 0
+  RENDER_TRIM 0 0 0 0
   TIMELOCKMODE 2
   TEMPOENVLOCKMODE 1
   ITEMMIX 0
@@ -742,6 +743,171 @@
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 53 38 1781 1009 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+      >
+    >
+  >
+  <TRACK {7AAFA9EB-700E-A052-7821-53BBF2747C39}
+    NAME "PART GUITAR COOP"
+    PEAKCOL 33554176
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 4096 1 7 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    MIDICOLORMAPFN "colormap_grybo.png"
+    FX 0
+    TRACKID {7AAFA9EB-700E-A052-7821-53BBF2747C39}
+    PERF 0
+    MIDIOUT -1
+    <MIDINOTENAMES
+      0 40 "Fret 1 (LH Lowest)" 0 40
+      -1 40 "Fret 1 - LH Lowest" 0 40
+      -1 41 - 0 41
+      -1 42 - 0 42
+      -1 43 "Fret 2" 0 43
+      -1 44 - 0 44
+      -1 45 "Fret 3" 0 45
+      -1 46 - 0 46
+      -1 47 "Fret 4" 0 47
+      -1 48 - 0 48
+      -1 49 "Fret 5" 0 49
+      -1 50 "Fret 6" 0 50
+      -1 51 - 0 51
+      -1 52 "Fret 7" 0 52
+      -1 53 "Fret 8" 0 53
+      -1 54 - 0 54
+      -1 55 "Fret 9" 0 55
+      -1 56 "Fret 10" 0 56
+      -1 57 "Fret 11" 0 57
+      0 58 "Fret 12 (LH Highest)" 0 58
+      -1 58 "Fret 12 - LH Highest" 0 58
+      -1 59 "E Open" 0 59
+      -1 60 "E Green" 0 60
+      -1 61 "E Red" 0 61
+      -1 62 "E Yellow" 0 62
+      -1 63 "E Blue" 0 63
+      -1 64 "E Orange" 0 64
+      -1 65 "E Force HOPO On" 0 65
+      -1 66 "E Force HOPO Off" 0 66
+      -1 70 ---- 0 70
+      -1 71 "M Open" 0 71
+      -1 72 "M Green" 0 72
+      -1 73 "M Red" 0 73
+      -1 74 "M Yellow" 0 74
+      -1 75 "M Blue" 0 75
+      -1 76 "M Orange" 0 76
+      -1 77 "M Force HOPO On" 0 77
+      -1 78 "M Force HOPO Off" 0 78
+      -1 82 ---- 0 82
+      -1 83 "H Open" 0 83
+      -1 84 "H Green" 0 84
+      -1 85 "H Red" 0 85
+      -1 86 "H Yellow" 0 86
+      -1 87 "H Blue" 0 87
+      -1 88 "H Orange" 0 88
+      -1 89 "H Force HOPO On" 0 89
+      -1 90 "H Force HOPO Off" 0 90
+      -1 94 ---- 0 94
+      -1 95 "X Open" 0 95
+      -1 96 "X Green" 0 96
+      -1 97 "X Red" 0 97
+      -1 98 "X Yellow" 0 98
+      -1 99 "X Blue" 0 99
+      -1 100 "X Orange" 0 100
+      -1 101 "X Force HOPO On" 0 101
+      -1 102 "X Force HOPO Off" 0 102
+      -1 103 "Solo Marker" 0 103
+      -1 104 "Tap Marker" 0 104
+      -1 115 ---- 0 115
+      -1 116 "Star Power Phrase" 0 116
+      -1 119 ---- 0 119
+      -1 120 "BRE (use all 5)" 0 120
+      -1 121 BRE 0 121
+      -1 122 BRE 0 122
+      -1 123 BRE 0 123
+      -1 124 BRE 0 124
+      -1 125 ---- 0 125
+      -1 126 "Tremolo Marker" 0 126
+      -1 127 "Trill Marker" 0 127
+    >
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 733 152 684 538
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: ReaSynth (Cockos)" reasynth.vst.so 0 "" 1919251321<5653547265737972656173796E746800> ""
+        eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABEAAAAAAAAAAAAAAA=
+        776t3g3wrd4AAAAAAAAAAAAAAAAAAAAAObRIPn3L2z61tLE5AAAAALbz/T5VpCs6AAAAAAAAAAAAAIA/AAAAAAAAgD8=
+        AFByb2dyYW0gMQAAAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {9073FF65-BBD1-10BA-6DF5-6FA80EC260DC}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VSTi: RBN Preview (RBN)" rbprev_vst64.dll 0 "" 1919053942<5653547262707672626E707265766965> ""
+        dnBicu5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAQAAAAAAAAADAKoAAFByb2dyYW0gMQAAAAAA
+      >
+      FLOATPOS 32 32 659 497
+      FXID {F5880F30-434D-1AEF-524E-8A5A35D4CA33}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 256
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3D71123C-1D5B-CA45-5EC0-FCD20B038E27}
+      IID 3
+      NAME "PART GUITAR COOP"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3EB942DA-A230-4B46-14D7-8A95C7CDC9CC}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {C6CA4530-5C76-8F00-EC77-4FD0F31A8387}
+        <x 0 0 0 0 3 "PART GUITAR COOP"
+          /wNQQVJUIEdVSVRBUiBDT09Q
+        >
+        <X 0 0 0 0 1 "[ld_range_shift 1 1 4]"
+          /wFbbGRfcmFuZ2Vfc2hpZnQgMSAxIDRd
+        >
+        <X 0 0 0 0 1 "[ld_range_shift 0 1 3]"
+          /wFbbGRfcmFuZ2Vfc2hpZnQgMCAxIDNd
+        >
+        <X 1920 0 0 0 1 [ENHANCED_OPENS]
+          /wFbRU5IQU5DRURfT1BFTlNd
+        >
+        E 243840 b0 7b 00
+        CCINTERP 32
+        GUID {BC8607D4-A2C9-4657-BE2D-284530D67C64}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 610
+        TEXTSTRINGFILE "C:\Program Files\REAPER\Data\Text_Strings\Text Events List.txt"
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        VELLANE 132 128 60 0 1
+        CFGEDITVIEW 0 0.016111 0 8 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
         CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 53 38 1781 1009 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
@@ -3515,7 +3681,7 @@
   >
   <TRACK {538287C4-280B-4F09-BCFD-35BFBAB028B2}
     NAME VENUE
-    PEAKCOL 33554176
+    PEAKCOL 27813610
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
@@ -3593,7 +3759,7 @@
   >
   <TRACK {BCC0161F-5852-8FF6-5488-94CECBDA3838}
     NAME Lights
-    PEAKCOL 33554295
+    PEAKCOL 27295936
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
@@ -3658,7 +3824,7 @@
   >
   <TRACK {A33BDFEF-C620-6B01-55BB-B0DB9CB2727A}
     NAME Camera
-    PEAKCOL 33554295
+    PEAKCOL 27295936
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
@@ -3723,7 +3889,7 @@
   >
   <TRACK {4DDEE3E2-5ED3-1235-1853-D3126071D70F}
     NAME Post-Processing
-    PEAKCOL 33554295
+    PEAKCOL 27295936
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
