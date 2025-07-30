@@ -1,3 +1,4 @@
 Backups
 gitignored
 *.rpp-bak
+/Localization/en-US.json
