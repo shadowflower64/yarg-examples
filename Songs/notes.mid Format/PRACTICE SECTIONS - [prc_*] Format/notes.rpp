@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.42/linux-x86_64" 1753949611
+<REAPER_PROJECT 0.1 "7.42/linux-x86_64" 1753955952
   RIPPLE 0 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 129
@@ -12,8 +12,8 @@
   MAXPROJLEN 0 600
   GRID 1151 8 1 8 1 0 0 0
   TIMEMODE 1 0 -1 24 2 0 -1
-  CURSOR 472
-  ZOOM 64.68734683133334 30211 0
+  CURSOR 0
+  ZOOM 64.68734683133337 0 0
   VZOOMEX 5.625 0
   USE_REC_CFG 0
   RECMODE 1
@@ -35,6 +35,7 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 3
   RENDER_DITHER 0
+  RENDER_TRIM 0 0 0 0
   TIMELOCKMODE 2
   TEMPOENVLOCKMODE 1
   ITEMMIX 0
@@ -215,7 +216,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -242,7 +243,7 @@
         >
         e 1920 90 61 60
         e 120 80 61 00
-        E 451080 b0 7b 00
+        E 454920 b0 7b 00
         CCINTERP 32
         GUID {04FD4636-FB52-4076-9FEB-758415E10C66}
         IGNTEMPO 0 120 4 4
@@ -253,7 +254,7 @@
         CFGEDITVIEW 47885.095278 0.125289 0 16 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -376,7 +377,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -409,7 +410,7 @@
         >
         e 1920 90 60 60
         e 120 80 60 00
-        E 451080 b0 7b 00
+        E 454920 b0 7b 00
         CCINTERP 32
         GUID {BC8607D4-A2C9-4657-BE2D-284530D67C64}
         IGNTEMPO 0 120 4 4
@@ -420,7 +421,7 @@
         CFGEDITVIEW 47640.307077 0.069727 0 11 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -520,7 +521,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -544,7 +545,7 @@
         >
         e 3840 90 3c 60
         e 120 80 3c 00
-        E 451080 b0 7b 00
+        E 454920 b0 7b 00
         CCINTERP 32
         GUID {2F92E240-F4B2-48A2-9636-3D55AE7DA3E1}
         IGNTEMPO 0 120 4 4
@@ -554,7 +555,7 @@
         CFGEDITVIEW 47885.095278 0.125289 0 16 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -666,7 +667,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -685,14 +686,14 @@
         HASDATA 1 480 QN
         CCINTERP 32
         POOLEDEVTS {2DB4032D-EBDC-BF44-9199-74B20699F029}
-        <x 0 0 0 0 3 "PART VOCALS"
+        <X 0 0 0 0 3 "PART VOCALS"
           /wNQQVJUIFZPQ0FMUw==
         >
-        e 3840 90 69 60
-        e 0 90 3c 60
-        e 451200 80 69 00
-        e 0 80 3c 00
-        E 0 b0 7b 00
+        E 3840 90 69 60
+        E 0 90 3c 60
+        E 453120 80 69 00
+        E 0 80 3c 00
+        E 1920 b0 7b 00
         CCINTERP 32
         GUID {17A94FD6-0BF4-4623-9A2C-F407A671C7E4}
         IGNTEMPO 0 120 4 4
@@ -700,10 +701,10 @@
         TEXTSTRINGFILE "Vocals.txt"
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
-        CFGEDITVIEW 425160.750104 0.038805 0 20 0 -1 0 0 0 0.5
+        CFGEDITVIEW 452068.779095 0.167945 0 20 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 4 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 4 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -721,7 +722,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -792,13 +793,13 @@
         CFGEDITVIEW 71182.457363 0.026008 0 6 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 0 0 1 64
       >
     >
     <ITEM
       POSITION 4
       SNAPOFFS 0
-      LENGTH 468.5
+      LENGTH 472.5
       LOOP 1
       ALLTAKES 0
       FADEIN 5.1 0 0 5.1 0 0 0
@@ -836,7 +837,7 @@
         CFGEDITVIEW 63502.457363 0.026008 0 6 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 0 0 1 64
       >
     >
   >
@@ -852,7 +853,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0 0
     TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -870,13 +871,13 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {6D25A4A8-5370-4DF0-B84E-4A78D921E807}
       IID 15
       NAME EVENTS
@@ -930,6 +931,9 @@
         >
         <X 1920 0 0 0 1 [prc_aco_guitar_intro]
           /wFbcHJjX2Fjb19ndWl0YXJfaW50cm9d
+        >
+        <X 1920 0 0 0 1 [prc_accompaniment_gtr_intro]
+          /wFbcHJjX2FjY29tcGFuaW1lbnRfZ3RyX2ludHJvXQ==
         >
         <X 1920 0 0 0 1 [prc_accompaniment_guitar_intro]
           /wFbcHJjX2FjY29tcGFuaW1lbnRfZ3VpdGFyX2ludHJvXQ==
@@ -1002,6 +1006,9 @@
         >
         <X 1920 0 0 0 1 [prc_rhy_enters]
           /wFbcHJjX3JoeV9lbnRlcnNd
+        >
+        <X 1920 0 0 0 1 [prc_rhythm_gtr_enters]
+          /wFbcHJjX3JoeXRobV9ndHJfZW50ZXJzXQ==
         >
         <X 1920 0 0 0 1 [prc_rhythm_guitar_enters]
           /wFbcHJjX3JoeXRobV9ndWl0YXJfZW50ZXJzXQ==
@@ -1602,10 +1609,10 @@
         TEXTSTRINGFILE "/mnt/data_03/Home/iris/.config/REAPER/Data/text_strings/Events + Practice Sections.txt"
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
-        CFGEDITVIEW 446207.354016 0.052015 0 18 0 -1 0 0 0 0.5
+        CFGEDITVIEW 447764.025673 0.125284 0 18 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 4 402 330 1361 800 0 0 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 4 358 340 1317 810 0 0 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -1752,7 +1759,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -1783,7 +1790,7 @@
         <X 1920 0 0 0 1 [ENHANCED_OPENS]
           /wFbRU5IQU5DRURfT1BFTlNd
         >
-        E 453120 b0 7b 00
+        E 456960 b0 7b 00
         CCINTERP 32
         GUID {3D175E48-B7E5-4732-8ACF-E683C2F87C66}
         IGNTEMPO 0 120 4 4
@@ -1794,7 +1801,7 @@
         CFGEDITVIEW -2420.732842 0.016111 0 5 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -1927,7 +1934,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -1949,7 +1956,7 @@
         <X 0 0 0 0 3 "PART ELITE_DRUMS"
           /wNQQVJUIEVMSVRFX0RSVU1T
         >
-        E 455040 b0 7b 00
+        E 458880 b0 7b 00
         CCINTERP 32
         GUID {04FD4636-FB52-4076-9FEB-758415E10C66}
         IGNTEMPO 0 120 4 4
@@ -1960,7 +1967,7 @@
         CFGEDITVIEW 43285.960492 0.052016 0 5 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -2083,7 +2090,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -2114,7 +2121,7 @@
         <X 1920 0 0 0 1 [ENHANCED_OPENS]
           /wFbRU5IQU5DRURfT1BFTlNd
         >
-        E 453120 b0 7b 00
+        E 456960 b0 7b 00
         CCINTERP 32
         GUID {BC8607D4-A2C9-4657-BE2D-284530D67C64}
         IGNTEMPO 0 120 4 4
@@ -2125,7 +2132,7 @@
         CFGEDITVIEW 2304.781918 0.038805 0 7 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -2246,7 +2253,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -2277,7 +2284,7 @@
         <X 1920 0 0 0 1 [ENHANCED_OPENS]
           /wFbRU5IQU5DRURfT1BFTlNd
         >
-        E 453120 b0 7b 00
+        E 456960 b0 7b 00
         CCINTERP 32
         GUID {BC8607D4-A2C9-4657-BE2D-284530D67C64}
         IGNTEMPO 0 120 4 4
@@ -2288,7 +2295,7 @@
         CFGEDITVIEW 2304.781918 0.038805 0 7 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -2377,7 +2384,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -2399,7 +2406,7 @@
         <X 0 0 0 0 3 "PART KEYS"
           /wNQQVJUIEtFWVM=
         >
-        E 455040 b0 7b 00
+        E 458880 b0 7b 00
         CCINTERP 32
         GUID {B6F1BC07-AAAF-4EEE-BDBC-68EF0D83E1B6}
         IGNTEMPO 0 120 4 4
@@ -2410,7 +2417,7 @@
         CFGEDITVIEW 2304.781918 0.038805 0 7 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -2510,7 +2517,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -2532,7 +2539,7 @@
         <x 0 0 0 0 3 "PART REAL_KEYS_H"
           /wNQQVJUIFJFQUxfS0VZU19I
         >
-        E 455040 b0 7b 00
+        E 458880 b0 7b 00
         CCINTERP 32
         GUID {3EA6C63D-23C0-4A96-AEC8-21F39893D265}
         IGNTEMPO 0 120 4 4
@@ -2542,7 +2549,7 @@
         CFGEDITVIEW 2304.781918 0.038805 0 7 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -2642,7 +2649,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -2664,7 +2671,7 @@
         <x 0 0 0 0 3 "PART REAL_KEYS_M"
           /wNQQVJUIFJFQUxfS0VZU19N
         >
-        E 455040 b0 7b 00
+        E 458880 b0 7b 00
         CCINTERP 32
         GUID {76EEFC17-3FC7-4E09-B4CE-AFAA0065DEF6}
         IGNTEMPO 0 120 4 4
@@ -2674,7 +2681,7 @@
         CFGEDITVIEW 2304.781918 0.038805 0 7 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -2774,7 +2781,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -2796,7 +2803,7 @@
         <X 0 0 0 0 3 "PART REAL_KEYS_E"
           /wNQQVJUIFJFQUxfS0VZU19F
         >
-        E 455040 b0 7b 00
+        E 458880 b0 7b 00
         CCINTERP 32
         GUID {E3FC4DAE-74FE-4EDF-B784-8716F45BBB31}
         IGNTEMPO 0 120 4 4
@@ -2806,7 +2813,7 @@
         CFGEDITVIEW 2304.781918 0.038805 0 7 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -2897,7 +2904,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -2919,7 +2926,7 @@
         <x 0 0 0 0 3 "PART KEYS_ANIM_RH"
           /wNQQVJUIEtFWVNfQU5JTV9SSA==
         >
-        E 455040 b0 7b 00
+        E 458880 b0 7b 00
         CCINTERP 32
         GUID {99D09667-3A03-4802-A32C-4D716D00686B}
         IGNTEMPO 0 120 4 4
@@ -2929,7 +2936,7 @@
         CFGEDITVIEW 2304.781918 0.038805 0 7 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 0 0 1 64
       >
     >
   >
@@ -2990,7 +2997,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -3012,7 +3019,7 @@
         <x 0 0 0 0 3 "PART KEYS_ANIM_LH"
           /wNQQVJUIEtFWVNfQU5JTV9MSA==
         >
-        E 455040 b0 7b 00
+        E 458880 b0 7b 00
         CCINTERP 32
         GUID {775F9391-C97E-434A-BFF9-380C4BF42DB2}
         IGNTEMPO 0 120 4 4
@@ -3022,7 +3029,7 @@
         CFGEDITVIEW 2304.781918 0.038805 0 7 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 0 0 1 64
       >
     >
   >
@@ -3134,7 +3141,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -3156,7 +3163,7 @@
         <X 0 0 0 0 3 HARM1
           /wNIQVJNMQ==
         >
-        E 455040 b0 7b 00
+        E 458880 b0 7b 00
         CCINTERP 32
         GUID {45A70D9E-4081-442C-8230-65306529D7A7}
         IGNTEMPO 0 120 4 4
@@ -3166,7 +3173,7 @@
         CFGEDITVIEW 2304.781918 0.038805 0 7 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -3272,7 +3279,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -3294,7 +3301,7 @@
         <X 0 0 0 0 3 HARM2
           /wNIQVJNMg==
         >
-        E 455040 b0 7b 00
+        E 458880 b0 7b 00
         CCINTERP 32
         GUID {8D79F191-0EEC-4F4D-8418-470087F97C44}
         IGNTEMPO 0 120 4 4
@@ -3304,7 +3311,7 @@
         CFGEDITVIEW 2304.781918 0.038805 0 7 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -3409,7 +3416,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -3431,7 +3438,7 @@
         <X 0 0 0 0 3 HARM3
           /wNIQVJNMw==
         >
-        E 455040 b0 7b 00
+        E 458880 b0 7b 00
         CCINTERP 32
         GUID {248C892C-CD68-474A-A4BF-6DC9497FB6C7}
         IGNTEMPO 0 120 4 4
@@ -3441,7 +3448,7 @@
         CFGEDITVIEW 2304.781918 0.038805 0 7 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -3480,7 +3487,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -4526,7 +4533,7 @@
         E 120 80 0d 00
         E 360 90 0d 60
         E 120 80 0d 00
-        E 209640 b0 7b 00
+        E 213480 b0 7b 00
         CCINTERP 32
         GUID {848ADBDC-2F66-4E77-BA08-4008C0CCAF2B}
         IGNTEMPO 0 120 4 4
@@ -4536,7 +4543,7 @@
         CFGEDITVIEW 2304.781918 0.038805 0 7 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -4581,7 +4588,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -4603,7 +4610,7 @@
         <x 0 0 0 0 3 VENUE
           /wNWRU5VRQ==
         >
-        E 455040 b0 7b 00
+        E 458880 b0 7b 00
         CCINTERP 32
         GUID {E4B197FD-5740-4F71-9CEA-9E900078FDAE}
         IGNTEMPO 0 120 4 4
@@ -4614,7 +4621,7 @@
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -4646,7 +4653,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -4668,7 +4675,7 @@
         <X 0 0 0 0 3 VENUE
           /wNWRU5VRQ==
         >
-        E 455040 b0 7b 00
+        E 458880 b0 7b 00
         CCINTERP 32
         GUID {E4B197FD-5740-4F71-9CEA-9E900078FDAE}
         IGNTEMPO 0 120 4 4
@@ -4679,7 +4686,7 @@
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -4711,7 +4718,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -4733,7 +4740,7 @@
         <X 0 0 0 0 3 VENUE
           /wNWRU5VRQ==
         >
-        E 455040 b0 7b 00
+        E 458880 b0 7b 00
         CCINTERP 32
         GUID {E4B197FD-5740-4F71-9CEA-9E900078FDAE}
         IGNTEMPO 0 120 4 4
@@ -4744,7 +4751,7 @@
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
@@ -4776,7 +4783,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 474
+      LENGTH 478
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -4798,7 +4805,7 @@
         <X 0 0 0 0 3 VENUE
           /wNWRU5VRQ==
         >
-        E 455040 b0 7b 00
+        E 458880 b0 7b 00
         CCINTERP 32
         GUID {E4B197FD-5740-4F71-9CEA-9E900078FDAE}
         IGNTEMPO 0 120 4 4
@@ -4809,7 +4816,7 @@
         CFGEDITVIEW 0 0.125289 0 8 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 402 330 1361 800 0 2 0 2 0 0 0 0 0 0.5 1 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
       >
     >
   >
