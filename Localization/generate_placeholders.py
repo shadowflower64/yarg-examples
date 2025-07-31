@@ -40,10 +40,10 @@ with open("en-US.json") as f:
     with open("PLACEHOLDERS_LONG.json", "w+") as f2:
         placeholderify(translation_data, False)
         print_all(translation_data)
-        json.dump(translation_data, f2)
+        json.dump(translation_data, f2, indent=4)
 
     with open("PLACEHOLDERS_SHORT.json", "w+") as f3:
         placeholderify(translation_data, True)
         print_all(translation_data)
-        json.dump(translation_data, f3)
+        json.dump(translation_data, f3, indent=4)
 
