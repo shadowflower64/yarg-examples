@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.42/linux-x86_64" 1753964152
+<REAPER_PROJECT 0.1 "7.42/linux-x86_64" 1754055536
   RIPPLE 0 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 129
@@ -12,9 +12,9 @@
   MAXPROJLEN 0 600
   GRID 1151 8 1 8 1 0 0 0
   TIMEMODE 1 0 -1 24 2 0 -1
-  CURSOR 0
-  ZOOM 32.65048720472524 0 0
-  VZOOMEX 5.625 0
+  CURSOR 528
+  ZOOM 128.15897091641773 66964 0
+  VZOOMEX 6.909091 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 0 0 0
@@ -35,7 +35,6 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 3
   RENDER_DITHER 0
-  RENDER_TRIM 0 0 0 0
   TIMELOCKMODE 2
   TEMPOENVLOCKMODE 1
   ITEMMIX 0
@@ -216,7 +215,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -243,7 +242,7 @@
         >
         e 1920 90 61 60
         e 120 80 61 00
-        E 477960 b0 7b 00
+        E 506760 b0 7b 00
         CCINTERP 32
         GUID {04FD4636-FB52-4076-9FEB-758415E10C66}
         IGNTEMPO 0 120 4 4
@@ -377,7 +376,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -410,7 +409,7 @@
         >
         e 1920 90 60 60
         e 120 80 60 00
-        E 477960 b0 7b 00
+        E 506760 b0 7b 00
         CCINTERP 32
         GUID {BC8607D4-A2C9-4657-BE2D-284530D67C64}
         IGNTEMPO 0 120 4 4
@@ -521,7 +520,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -545,7 +544,7 @@
         >
         e 3840 90 3c 60
         e 120 80 3c 00
-        E 477960 b0 7b 00
+        E 506760 b0 7b 00
         CCINTERP 32
         GUID {2F92E240-F4B2-48A2-9636-3D55AE7DA3E1}
         IGNTEMPO 0 120 4 4
@@ -571,7 +570,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 1
+    SEL 0
     REC 0 4096 1 7 0 0 0 0
     TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -667,7 +666,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -686,13 +685,13 @@
         HASDATA 1 480 QN
         CCINTERP 32
         POOLEDEVTS {2DB4032D-EBDC-BF44-9199-74B20699F029}
-        <x 0 0 0 0 3 "PART VOCALS"
+        <X 0 0 0 0 3 "PART VOCALS"
           /wNQQVJUIFZPQ0FMUw==
         >
-        e 3840 90 69 60
-        e 0 90 3c 60
-        e 476160 80 69 00
-        e 0 80 3c 00
+        E 3840 90 69 60
+        E 0 90 3c 60
+        E 504960 80 69 00
+        E 0 80 3c 00
         E 1920 b0 7b 00
         CCINTERP 32
         GUID {17A94FD6-0BF4-4623-9A2C-F407A671C7E4}
@@ -701,7 +700,7 @@
         TEXTSTRINGFILE "Vocals.txt"
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
-        CFGEDITVIEW 465918.269682 0.069727 0 20 0 -1 0 0 0 0.5
+        CFGEDITVIEW 500462.70307 0.125289 0 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
         CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 4 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
@@ -722,7 +721,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -799,7 +798,7 @@
     <ITEM
       POSITION 4
       SNAPOFFS 0
-      LENGTH 496.5
+      LENGTH 526.5
       LOOP 1
       ALLTAKES 0
       FADEIN 5.1 0 0 5.1 0 0 0
@@ -871,7 +870,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -932,11 +931,11 @@
         <X 1920 0 0 0 1 "[section aco_guitar_intro]"
           /wFbc2VjdGlvbiBhY29fZ3VpdGFyX2ludHJvXQ==
         >
-        <X 1920 0 0 0 1 "[section accompaniment_gtr_intro]"
-          /wFbc2VjdGlvbiBhY2NvbXBhbmltZW50X2d0cl9pbnRyb10=
+        <X 1920 0 0 0 1 "[section acoustic_gtr_intro]"
+          /wFbc2VjdGlvbiBhY291c3RpY19ndHJfaW50cm9d
         >
-        <X 1920 0 0 0 1 "[section accompaniment_guitar_intro]"
-          /wFbc2VjdGlvbiBhY2NvbXBhbmltZW50X2d1aXRhcl9pbnRyb10=
+        <X 1920 0 0 0 1 "[section acoustic_guitar_intro]"
+          /wFbc2VjdGlvbiBhY291c3RpY19ndWl0YXJfaW50cm9d
         >
         <X 1920 0 0 0 1 "[section violin_intro]"
           /wFbc2VjdGlvbiB2aW9saW5faW50cm9d
@@ -946,6 +945,9 @@
         >
         <X 1920 0 0 0 1 "[section orch_intro]"
           /wFbc2VjdGlvbiBvcmNoX2ludHJvXQ==
+        >
+        <X 1920 0 0 0 1 "[section orchestra_intro]"
+          /wFbc2VjdGlvbiBvcmNoZXN0cmFfaW50cm9d
         >
         <X 1920 0 0 0 1 "[section orchestral_intro]"
           /wFbc2VjdGlvbiBvcmNoZXN0cmFsX2ludHJvXQ==
@@ -962,23 +964,17 @@
         <X 1920 0 0 0 1 "[section piano_intro]"
           /wFbc2VjdGlvbiBwaWFub19pbnRyb10=
         >
-        <X 1920 0 0 0 1 "[section kybd_intro]"
-          /wFbc2VjdGlvbiBreWJkX2ludHJvXQ==
-        >
         <X 1920 0 0 0 1 "[section keyboard_intro]"
           /wFbc2VjdGlvbiBrZXlib2FyZF9pbnRyb10=
         >
+        <X 1920 0 0 0 1 "[section keyb_intro]"
+          /wFbc2VjdGlvbiBrZXliX2ludHJvXQ==
+        >
+        <X 1920 0 0 0 1 "[section kybd_intro]"
+          /wFbc2VjdGlvbiBreWJkX2ludHJvXQ==
+        >
         <X 1920 0 0 0 1 "[section dj_intro]"
           /wFbc2VjdGlvbiBkal9pbnRyb10=
-        >
-        <X 1920 0 0 0 1 "[section foreplay_intro]"
-          /wFbc2VjdGlvbiBmb3JlcGxheV9pbnRyb10=
-        >
-        <X 1920 0 0 0 1 "[section longtome_intro]"
-          /wFbc2VjdGlvbiBsb25ndG9tZV9pbnRyb10=
-        >
-        <X 1920 0 0 0 1 "[section long_time_intro]"
-          /wFbc2VjdGlvbiBsb25nX3RpbWVfaW50cm9d
         >
         <X 1920 0 0 0 1 "[section intro_hook]"
           /wFbc2VjdGlvbiBpbnRyb19ob29rXQ==
@@ -1010,6 +1006,12 @@
         <X 1920 0 0 0 1 "[section rhy_enters]"
           /wFbc2VjdGlvbiByaHlfZW50ZXJzXQ==
         >
+        <X 1920 0 0 0 1 "[section rhy_gtr_enters]"
+          /wFbc2VjdGlvbiByaHlfZ3RyX2VudGVyc10=
+        >
+        <X 1920 0 0 0 1 "[section rhy_guitar_enters]"
+          /wFbc2VjdGlvbiByaHlfZ3VpdGFyX2VudGVyc10=
+        >
         <X 1920 0 0 0 1 "[section rhythm_gtr_enters]"
           /wFbc2VjdGlvbiByaHl0aG1fZ3RyX2VudGVyc10=
         >
@@ -1019,17 +1021,20 @@
         <X 1920 0 0 0 1 "[section band_enters]"
           /wFbc2VjdGlvbiBiYW5kX2VudGVyc10=
         >
+        <X 1920 0 0 0 1 "[section synth_enters]"
+          /wFbc2VjdGlvbiBzeW50aF9lbnRlcnNd
+        >
         <X 1920 0 0 0 1 "[section syth_enters]"
           /wFbc2VjdGlvbiBzeXRoX2VudGVyc10=
         >
-        <X 1920 0 0 0 1 "[section synth_enters]"
-          /wFbc2VjdGlvbiBzeW50aF9lbnRlcnNd
+        <X 1920 0 0 0 1 "[section keyboard_enters]"
+          /wFbc2VjdGlvbiBrZXlib2FyZF9lbnRlcnNd
         >
         <X 1920 0 0 0 1 "[section keyb_enters]"
           /wFbc2VjdGlvbiBrZXliX2VudGVyc10=
         >
-        <X 1920 0 0 0 1 "[section keyboard_enters]"
-          /wFbc2VjdGlvbiBrZXlib2FyZF9lbnRlcnNd
+        <X 1920 0 0 0 1 "[section kybd_enters]"
+          /wFbc2VjdGlvbiBreWJkX2VudGVyc10=
         >
         <X 1920 0 0 0 1 "[section organ_enters]"
           /wFbc2VjdGlvbiBvcmdhbl9lbnRlcnNd
@@ -1142,6 +1147,12 @@
         <X 1920 0 0 0 1 "[section keyboard_solo]"
           /wFbc2VjdGlvbiBrZXlib2FyZF9zb2xvXQ==
         >
+        <X 1920 0 0 0 1 "[section keyb_solo]"
+          /wFbc2VjdGlvbiBrZXliX3NvbG9d
+        >
+        <X 1920 0 0 0 1 "[section kybd_solo]"
+          /wFbc2VjdGlvbiBreWJkX3NvbG9d
+        >
         <X 1920 0 0 0 1 "[section synth_solo]"
           /wFbc2VjdGlvbiBzeW50aF9zb2xvXQ==
         >
@@ -1160,23 +1171,41 @@
         <X 1920 0 0 0 1 "[section noise_solo]"
           /wFbc2VjdGlvbiBub2lzZV9zb2xvXQ==
         >
+        <X 1920 0 0 0 1 "[section noise_build]"
+          /wFbc2VjdGlvbiBub2lzZV9idWlsZF0=
+        >
         <X 1920 0 0 0 1 "[section dj_solo]"
           /wFbc2VjdGlvbiBkal9zb2xvXQ==
         >
         <X 1920 0 0 0 1 "[section slow_part]"
           /wFbc2VjdGlvbiBzbG93X3BhcnRd
         >
+        <X 1920 0 0 0 1 "[section very_slow]"
+          /wFbc2VjdGlvbiB2ZXJ5X3Nsb3dd
+        >
         <X 1920 0 0 0 1 "[section fast_part]"
           /wFbc2VjdGlvbiBmYXN0X3BhcnRd
+        >
+        <X 1920 0 0 0 1 "[section very_fast]"
+          /wFbc2VjdGlvbiB2ZXJ5X2Zhc3Rd
         >
         <X 1920 0 0 0 1 "[section quiet_part]"
           /wFbc2VjdGlvbiBxdWlldF9wYXJ0XQ==
         >
+        <X 1920 0 0 0 1 "[section very_quiet]"
+          /wFbc2VjdGlvbiB2ZXJ5X3F1aWV0XQ==
+        >
         <X 1920 0 0 0 1 "[section loud_part]"
           /wFbc2VjdGlvbiBsb3VkX3BhcnRd
         >
+        <X 1920 0 0 0 1 "[section very_loud]"
+          /wFbc2VjdGlvbiB2ZXJ5X2xvdWRd
+        >
         <X 1920 0 0 0 1 "[section heavy_part]"
           /wFbc2VjdGlvbiBoZWF2eV9wYXJ0XQ==
+        >
+        <X 1920 0 0 0 1 "[section very_heavy]"
+          /wFbc2VjdGlvbiB2ZXJ5X2hlYXZ5XQ==
         >
         <X 1920 0 0 0 1 "[section spacey]"
           /wFbc2VjdGlvbiBzcGFjZXld
@@ -1189,6 +1218,9 @@
         >
         <X 1920 0 0 0 1 "[section trippy_part]"
           /wFbc2VjdGlvbiB0cmlwcHlfcGFydF0=
+        >
+        <X 1920 0 0 0 1 "[section very_trippy]"
+          /wFbc2VjdGlvbiB2ZXJ5X3RyaXBweV0=
         >
         <X 1920 0 0 0 1 "[section break]"
           /wFbc2VjdGlvbiBicmVha10=
@@ -1219,6 +1251,12 @@
         >
         <X 1920 0 0 0 1 "[section keyboard_break]"
           /wFbc2VjdGlvbiBrZXlib2FyZF9icmVha10=
+        >
+        <X 1920 0 0 0 1 "[section keyb_break]"
+          /wFbc2VjdGlvbiBrZXliX2JyZWFrXQ==
+        >
+        <X 1920 0 0 0 1 "[section kybd_break]"
+          /wFbc2VjdGlvbiBreWJkX2JyZWFrXQ==
         >
         <X 1920 0 0 0 1 "[section horn_break]"
           /wFbc2VjdGlvbiBob3JuX2JyZWFrXQ==
@@ -1256,23 +1294,23 @@
         <X 1920 0 0 0 1 "[section vamp]"
           /wFbc2VjdGlvbiB2YW1wXQ==
         >
-        <X 1920 0 0 0 1 "[section buildup]"
-          /wFbc2VjdGlvbiBidWlsZHVwXQ==
-        >
         <X 1920 0 0 0 1 "[section build_up]"
           /wFbc2VjdGlvbiBidWlsZF91cF0=
         >
         <X 1920 0 0 0 1 "[section build-up]"
           /wFbc2VjdGlvbiBidWlsZC11cF0=
         >
-        <X 1920 0 0 0 1 "[section noise_build]"
-          /wFbc2VjdGlvbiBub2lzZV9idWlsZF0=
+        <X 1920 0 0 0 1 "[section buildup]"
+          /wFbc2VjdGlvbiBidWlsZHVwXQ==
         >
         <X 1920 0 0 0 1 "[section speedup]"
           /wFbc2VjdGlvbiBzcGVlZHVwXQ==
         >
         <X 1920 0 0 0 1 "[section speed_up]"
           /wFbc2VjdGlvbiBzcGVlZF91cF0=
+        >
+        <X 1920 0 0 0 1 "[section speed-up]"
+          /wFbc2VjdGlvbiBzcGVlZC11cF0=
         >
         <X 1920 0 0 0 1 "[section tension]"
           /wFbc2VjdGlvbiB0ZW5zaW9uXQ==
@@ -1388,12 +1426,6 @@
         <X 1920 0 0 0 1 "[section guitar_ostinato]"
           /wFbc2VjdGlvbiBndWl0YXJfb3N0aW5hdG9d
         >
-        <X 1920 0 0 0 1 "[section speed_picking]"
-          /wFbc2VjdGlvbiBzcGVlZF9waWNraW5nXQ==
-        >
-        <X 1920 0 0 0 1 "[section fast_picking]"
-          /wFbc2VjdGlvbiBmYXN0X3BpY2tpbmdd
-        >
         <X 1920 0 0 0 1 "[section vocal_break]"
           /wFbc2VjdGlvbiB2b2NhbF9icmVha10=
         >
@@ -1453,6 +1485,18 @@
         >
         <X 1920 0 0 0 1 "[section fadeout]"
           /wFbc2VjdGlvbiBmYWRlb3V0XQ==
+        >
+        <X 1920 0 0 0 1 "[section speed_picking]"
+          /wFbc2VjdGlvbiBzcGVlZF9waWNraW5nXQ==
+        >
+        <X 1920 0 0 0 1 "[section fast_picking]"
+          /wFbc2VjdGlvbiBmYXN0X3BpY2tpbmdd
+        >
+        <X 1920 0 0 0 1 "[section foreplay_intro]"
+          /wFbc2VjdGlvbiBmb3JlcGxheV9pbnRyb10=
+        >
+        <X 1920 0 0 0 1 "[section longtome_intro]"
+          /wFbc2VjdGlvbiBsb25ndG9tZV9pbnRyb10=
         >
         <X 1920 0 0 0 1 "[section a]"
           /wFbc2VjdGlvbiBhXQ==
@@ -1645,7 +1689,7 @@
         TEXTSTRINGFILE "/mnt/data_03/Home/iris/.config/REAPER/Data/text_strings/Events + Practice Sections.txt"
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 128 60 0 1
-        CFGEDITVIEW 465918.269682 0.069727 0 20 0 -1 0 0 0 0.5
+        CFGEDITVIEW 500462.70307 0.125289 0 20 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
         CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 4 358 340 1317 810 0 2 0 2 0 0 0 1 0 0.5 1 0 1 64
@@ -1692,7 +1736,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     SEL 0
     REC 0 4096 1 0 0 0 0 0
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     MIDICOLORMAPFN "colormap_grybo.png"
@@ -1795,7 +1839,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -1826,7 +1870,7 @@
         <X 1920 0 0 0 1 [ENHANCED_OPENS]
           /wFbRU5IQU5DRURfT1BFTlNd
         >
-        E 480000 b0 7b 00
+        E 508800 b0 7b 00
         CCINTERP 32
         GUID {3D175E48-B7E5-4732-8ACF-E683C2F87C66}
         IGNTEMPO 0 120 4 4
@@ -1855,7 +1899,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     SEL 0
     REC 0 4096 1 7 0 0 0 0
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     MIDICOLORMAPFN "colormap_elitedrums.png"
@@ -1970,7 +2014,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -1992,7 +2036,7 @@
         <X 0 0 0 0 3 "PART ELITE_DRUMS"
           /wNQQVJUIEVMSVRFX0RSVU1T
         >
-        E 481920 b0 7b 00
+        E 510720 b0 7b 00
         CCINTERP 32
         GUID {04FD4636-FB52-4076-9FEB-758415E10C66}
         IGNTEMPO 0 120 4 4
@@ -2021,7 +2065,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     SEL 0
     REC 0 4096 1 7 0 0 0 0
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     MIDICOLORMAPFN "colormap_grybo.png"
@@ -2126,7 +2170,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -2157,7 +2201,7 @@
         <X 1920 0 0 0 1 [ENHANCED_OPENS]
           /wFbRU5IQU5DRURfT1BFTlNd
         >
-        E 480000 b0 7b 00
+        E 508800 b0 7b 00
         CCINTERP 32
         GUID {BC8607D4-A2C9-4657-BE2D-284530D67C64}
         IGNTEMPO 0 120 4 4
@@ -2186,7 +2230,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     SEL 0
     REC 0 4096 1 7 0 0 0 0
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     MIDICOLORMAPFN "colormap_grybo.png"
@@ -2289,7 +2333,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -2320,7 +2364,7 @@
         <X 1920 0 0 0 1 [ENHANCED_OPENS]
           /wFbRU5IQU5DRURfT1BFTlNd
         >
-        E 480000 b0 7b 00
+        E 508800 b0 7b 00
         CCINTERP 32
         GUID {BC8607D4-A2C9-4657-BE2D-284530D67C64}
         IGNTEMPO 0 120 4 4
@@ -2349,7 +2393,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     SEL 0
     REC 0 0 0 0 0 0 0 0
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     MIDICOLORMAPFN "colormap_grybo.png"
@@ -2420,7 +2464,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -2442,7 +2486,7 @@
         <X 0 0 0 0 3 "PART KEYS"
           /wNQQVJUIEtFWVM=
         >
-        E 481920 b0 7b 00
+        E 510720 b0 7b 00
         CCINTERP 32
         GUID {B6F1BC07-AAAF-4EEE-BDBC-68EF0D83E1B6}
         IGNTEMPO 0 120 4 4
@@ -2471,7 +2515,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     SEL 0
     REC 0 0 0 0 0 0 0 0
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2553,7 +2597,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -2575,7 +2619,7 @@
         <x 0 0 0 0 3 "PART REAL_KEYS_H"
           /wNQQVJUIFJFQUxfS0VZU19I
         >
-        E 481920 b0 7b 00
+        E 510720 b0 7b 00
         CCINTERP 32
         GUID {3EA6C63D-23C0-4A96-AEC8-21F39893D265}
         IGNTEMPO 0 120 4 4
@@ -2603,7 +2647,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     SEL 0
     REC 0 0 0 0 0 0 0 0
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2685,7 +2729,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -2707,7 +2751,7 @@
         <x 0 0 0 0 3 "PART REAL_KEYS_M"
           /wNQQVJUIFJFQUxfS0VZU19N
         >
-        E 481920 b0 7b 00
+        E 510720 b0 7b 00
         CCINTERP 32
         GUID {76EEFC17-3FC7-4E09-B4CE-AFAA0065DEF6}
         IGNTEMPO 0 120 4 4
@@ -2735,7 +2779,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     SEL 0
     REC 0 0 0 0 0 0 0 0
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2817,7 +2861,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -2839,7 +2883,7 @@
         <X 0 0 0 0 3 "PART REAL_KEYS_E"
           /wNQQVJUIFJFQUxfS0VZU19F
         >
-        E 481920 b0 7b 00
+        E 510720 b0 7b 00
         CCINTERP 32
         GUID {E3FC4DAE-74FE-4EDF-B784-8716F45BBB31}
         IGNTEMPO 0 120 4 4
@@ -2867,7 +2911,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     SEL 0
     REC 0 0 0 0 0 0 0 0
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2940,7 +2984,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -2962,7 +3006,7 @@
         <x 0 0 0 0 3 "PART KEYS_ANIM_RH"
           /wNQQVJUIEtFWVNfQU5JTV9SSA==
         >
-        E 481920 b0 7b 00
+        E 510720 b0 7b 00
         CCINTERP 32
         GUID {99D09667-3A03-4802-A32C-4D716D00686B}
         IGNTEMPO 0 120 4 4
@@ -2990,7 +3034,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     SEL 0
     REC 0 0 0 0 0 0 0 0
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -3033,7 +3077,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -3055,7 +3099,7 @@
         <x 0 0 0 0 3 "PART KEYS_ANIM_LH"
           /wNQQVJUIEtFWVNfQU5JTV9MSA==
         >
-        E 481920 b0 7b 00
+        E 510720 b0 7b 00
         CCINTERP 32
         GUID {775F9391-C97E-434A-BFF9-380C4BF42DB2}
         IGNTEMPO 0 120 4 4
@@ -3083,7 +3127,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     SEL 0
     REC 0 0 0 0 0 0 0 0
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -3177,7 +3221,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -3199,7 +3243,7 @@
         <X 0 0 0 0 3 HARM1
           /wNIQVJNMQ==
         >
-        E 481920 b0 7b 00
+        E 510720 b0 7b 00
         CCINTERP 32
         GUID {45A70D9E-4081-442C-8230-65306529D7A7}
         IGNTEMPO 0 120 4 4
@@ -3227,7 +3271,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     SEL 0
     REC 0 0 0 0 0 0 0 0
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -3315,7 +3359,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -3337,7 +3381,7 @@
         <X 0 0 0 0 3 HARM2
           /wNIQVJNMg==
         >
-        E 481920 b0 7b 00
+        E 510720 b0 7b 00
         CCINTERP 32
         GUID {8D79F191-0EEC-4F4D-8418-470087F97C44}
         IGNTEMPO 0 120 4 4
@@ -3365,7 +3409,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     SEL 0
     REC 0 0 0 0 0 0 0 0
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -3452,7 +3496,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -3474,7 +3518,7 @@
         <X 0 0 0 0 3 HARM3
           /wNIQVJNMw==
         >
-        E 481920 b0 7b 00
+        E 510720 b0 7b 00
         CCINTERP 32
         GUID {248C892C-CD68-474A-A4BF-6DC9497FB6C7}
         IGNTEMPO 0 120 4 4
@@ -3502,7 +3546,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     SEL 0
     REC 0 0 0 0 0 0 0 0
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -3523,7 +3567,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -4569,7 +4613,7 @@
         E 120 80 0d 00
         E 360 90 0d 60
         E 120 80 0d 00
-        E 236520 b0 7b 00
+        E 265320 b0 7b 00
         CCINTERP 32
         GUID {848ADBDC-2F66-4E77-BA08-4008C0CCAF2B}
         IGNTEMPO 0 120 4 4
@@ -4597,7 +4641,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     SEL 0
     REC 0 0 0 0 0 0 0 0
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -4624,7 +4668,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -4646,7 +4690,7 @@
         <x 0 0 0 0 3 VENUE
           /wNWRU5VRQ==
         >
-        E 481920 b0 7b 00
+        E 510720 b0 7b 00
         CCINTERP 32
         GUID {E4B197FD-5740-4F71-9CEA-9E900078FDAE}
         IGNTEMPO 0 120 4 4
@@ -4678,7 +4722,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -4689,7 +4733,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -4711,7 +4755,7 @@
         <X 0 0 0 0 3 VENUE
           /wNWRU5VRQ==
         >
-        E 481920 b0 7b 00
+        E 510720 b0 7b 00
         CCINTERP 32
         GUID {E4B197FD-5740-4F71-9CEA-9E900078FDAE}
         IGNTEMPO 0 120 4 4
@@ -4743,7 +4787,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -4754,7 +4798,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -4776,7 +4820,7 @@
         <X 0 0 0 0 3 VENUE
           /wNWRU5VRQ==
         >
-        E 481920 b0 7b 00
+        E 510720 b0 7b 00
         CCINTERP 32
         GUID {E4B197FD-5740-4F71-9CEA-9E900078FDAE}
         IGNTEMPO 0 120 4 4
@@ -4808,7 +4852,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -4819,7 +4863,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 502
+      LENGTH 532
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -4841,7 +4885,7 @@
         <X 0 0 0 0 3 VENUE
           /wNWRU5VRQ==
         >
-        E 481920 b0 7b 00
+        E 510720 b0 7b 00
         CCINTERP 32
         GUID {E4B197FD-5740-4F71-9CEA-9E900078FDAE}
         IGNTEMPO 0 120 4 4
